@@ -1,0 +1,22 @@
+mode: set
+tudai2021/main.go:8.13,11.16 3 1
+tudai2021/main.go:11.16,13.3 1 1
+tudai2021/main.go:13.8,14.13 1 0
+tudai2021/modules/entities.go:15.47,16.26 1 1
+tudai2021/modules/entities.go:16.26,21.3 4 1
+tudai2021/modules/entities.go:21.8,23.3 1 1
+tudai2021/modules/entities.go:27.39,29.2 1 1
+tudai2021/modules/entities.go:31.38,35.2 3 1
+tudai2021/modules/entities.go:37.37,40.18 3 1
+tudai2021/modules/entities.go:43.2,43.18 1 1
+tudai2021/modules/entities.go:46.2,46.14 1 0
+tudai2021/modules/entities.go:40.18,42.3 1 1
+tudai2021/modules/entities.go:43.18,45.3 1 1
+tudai2021/modules/entities.go:50.33,51.26 1 1
+tudai2021/modules/entities.go:56.2,56.13 1 1
+tudai2021/modules/entities.go:51.26,52.27 1 1
+tudai2021/modules/entities.go:52.27,54.4 1 0
+tudai2021/modules/entities.go:59.35,60.26 1 1
+tudai2021/modules/entities.go:65.2,65.13 1 1
+tudai2021/modules/entities.go:60.26,61.26 1 1
+tudai2021/modules/entities.go:61.26,63.4 1 1
